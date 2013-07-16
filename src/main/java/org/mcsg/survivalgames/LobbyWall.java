@@ -60,8 +60,8 @@ public class LobbyWall {
             Collections.reverse(signs);
         }
         addMsg("SurvivalGames");
-        addMsg("Double0negative");
-        addMsg("mc-sg.org");
+        addMsg("MeMyslefAndPi");
+        addMsg("DigitDomain.net");
         addMsg("Game id: " + gameid);
         update();
         return true;
